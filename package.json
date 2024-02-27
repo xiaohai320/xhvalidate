@@ -1,0 +1,23 @@
+{
+  "name": "xiaohai320-utils", 
+  "version": "1.0.0", 
+  "author": "xiaohai320", 
+  "description": "common toolkit",
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaohai320/xiaohai320-utils"
+  },
+  "license": "ISC", 
+  "main": "index.js", // 入口文件
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
