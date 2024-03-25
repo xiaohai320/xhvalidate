@@ -1,7 +1,7 @@
 // a. index.js 入口文件
 import Format from "./src/format";
 import Validate from "./src/validate";
-
+import xiaohaiui from "xiaohai-elementui";
 export { Format, Validate };
 
 // b. format.js 格式化文件
