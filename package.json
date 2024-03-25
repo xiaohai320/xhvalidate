@@ -15,7 +15,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-
+   "xiaohai-elementui": "0.0.5",
+    "xiaohaiui": "0.0.3"
   },
   "devDependencies": {
 
