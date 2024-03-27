@@ -3,8 +3,7 @@
 # xhvalidate
 
 > 一个强大的Web表单验证库，支持复杂规则和自定义验证器
-
-[![npm version](https://img.shields.io/npm/v/web-form-validation.svg)](https://www.npmjs.com/package/xhvalidate)
+[![npm version](https://img.shields.io/npm/v/xhvalidate.svg)](https://www.npmjs.com/package/xhvalidate)
 
 ## 简介
 `xhvalidate` 是一个专为Web应用程序设计的表单验证库，它整合了 `validate.js` 和 `ajv` 等优秀验证库的功能，提供了一套完整的解决方案，包括但不限于基本数据验证、JSON Schema验证以及自定义验证规则等。此外，该库还支持将验证规则导出为ZIP文件，便于在不同项目间复用和共享。
