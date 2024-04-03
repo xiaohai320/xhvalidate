@@ -1,20 +1,23 @@
 {
   "name": "xhvalidate",
   "private": false,
-  "version": "0.1.0",
+  "version": "0.1.4",
   "type": "module",
   "author": "zhangwei320",
   "description": "common toolkit",
   "keywords": [
     "utils",
     "format",
-    "money",
-    "phone"
+    "validate",
+    "ajv",
+    "json",
+    "react"
   ],
   "peerDependencies": {
     "react": "^17.x.x || ^18.x.x"
   },
   "dependencies": {
+    "xiaohai320-tea-utils": "1.1.0",
     "xiaohai-elementui": "0.0.5",
     "lodash": "^4.x.x",
     "validate.js": "^0.x.x",
