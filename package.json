@@ -1,37 +1,18 @@
 {
   "name": "xhvalidate",
-  "private": false,
-  "version": "0.1.4",
+  "version": "0.1.6",
   "type": "module",
   "author": "zhangwei320",
   "description": "common toolkit",
   "keywords": [
-    "utils",
-    "format",
-    "validate",
-    "ajv",
-    "json",
-    "react"
+    "vue",
+    "vuejs",
+    "web3",
+    "web3js",
+    "ethereum"
   ],
-  "peerDependencies": {
-    "react": "^17.x.x || ^18.x.x"
-  },
   "dependencies": {
-    "xiaohai320-tea-utils": "1.1.0",
-    "xiaohai-elementui": "0.0.5",
-    "lodash": "^4.x.x",
-    "validate.js": "^0.x.x",
-    "browserify-zip": "^0.x.x",
-    "ajv": "^8.x.x"
-  },
-  "devDependencies": {
-    "webpack": "^5.x.x",
-    "webpack-cli": "^4.x.x",
-    "babel-loader": "^8.x.x",
-    "jest": "^27.x.x",
-    "@babel/core": "^7.x.x",
-    "@babel/preset-env": "^7.x.x",
-    "@babel/preset-react": "^7.x.x"
+    "web3": "1.2.8"
   },
   "repository": {
     "type": "git",
